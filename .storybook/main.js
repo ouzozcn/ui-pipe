@@ -8,6 +8,7 @@ const config = {
     "@storybook/addon-essentials",
     "@chromatic-com/storybook",
     "@storybook/addon-interactions",
+    "@storybook-zeplin/register",
   ],
   framework: {
     name: "@storybook/react-webpack5",
